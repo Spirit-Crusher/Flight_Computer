@@ -19,7 +19,7 @@ Power management IC: ?
 Ver redundância 
 
 # DONE
-- [ ] Decoupling capacitors for each IC and basic conections.
+- [x] Decoupling capacitors for each IC and basic conections.
 - [ ] Sorting out power (all 3V3 or anything else needed?)
 - [ ] Reverse polarity protection (which approach should I use?)
-- [ ] Programmer pins connector
+- [x] Programmer pins connector
