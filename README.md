@@ -12,9 +12,11 @@ Buzzer: https://pt.mouser.com/ProductDetail/Same-Sky/CMI-1210-90-SMT-TR?qs=P1JMD
 
 Antena: ???
 
-Data logging: Flash memory chip?
+Data logging: Flash memory chip? SD card would be even better
 
-Power management IC: ?
+Power management IC: ? (maybe BMS board would be better)
+
+Pyro channels and others
 
 Ver redundância 
 
