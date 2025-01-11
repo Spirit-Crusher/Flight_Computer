@@ -8,11 +8,11 @@ Magnetómetro: https://pt.mouser.com/ProductDetail/STMicroelectronics/LIS3MDLTR?
 
 Altímetro (temp incluída): https://pt.mouser.com/ProductDetail/Measurement-Specialties/MS560702BA03-50?qs=sGAEpiMZZMtiz6SYu%2FjtS3nI99Ya1op5gwRqEQTw8xo%3D
 
-Buzzer: https://pt.mouser.com/ProductDetail/Same-Sky/CMI-1210-90-SMT-TR?qs=P1JMDcb91o7BNpha6IpZxw%3D%3D
+Buzzer: https://www.digikey.com/en/products/detail/ole-wolff-electronics-inc/OWMB-858540SA-40-15/16735155
 
 Antena: ???
 
-Data logging: Flash memory chip? SD card would be even better
+Data logging (flash memory IC): https://pt.mouser.com/ProductDetail/Winbond/W25Q128JVSIQ?qs=qSfuJ%252Bfl%2Fd6tLXvPR4fl9w%3D%3D
 
 Power management IC: ? (maybe BMS board would be better)
 
