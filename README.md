@@ -2,6 +2,8 @@ MCU: https://www.microchip.com/en-us/product/pic32mz2048efh100
 
 GPS: https://pt.mouser.com/ProductDetail/u-blox/NEO-M8J?qs=sGAEpiMZZMu3sxpa5v1qrlhWywTP0pnuh%2BmP8LamgMg%3D
 
+Data logging for GPS: https://pt.mouser.com/ProductDetail/Microchip-Technology/SST26VF032BT-104I-SM?qs=wzzOUr4NhYqzScXXOX3HBA%3D%3D
+
 IMU (acel + gyro): https://pt.mouser.com/ProductDetail/STMicroelectronics/LSM6DS3TR-C?qs=sGAEpiMZZMs29kr3d%2BndIw9GjDKvhDTryg6A%2FwXJ%2FS4%3D
 
 Magnetómetro: https://pt.mouser.com/ProductDetail/STMicroelectronics/LIS3MDLTR?qs=hnsWAVXnr6EbLE48dGN9Pg%3D%3D
