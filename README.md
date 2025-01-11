@@ -16,7 +16,7 @@ Antena: ???
 
 Data logging (flash memory IC): https://pt.mouser.com/ProductDetail/Winbond/W25Q128JVSIQ?qs=qSfuJ%252Bfl%2Fd6tLXvPR4fl9w%3D%3D
 
-Power management IC: ? (maybe BMS board would be better)
+Power management IC: https://pt.mouser.com/ProductDetail/Texas-Instruments/INA219BIDR?qs=1WmUhT%2FVMINyGsXNJcdD5Q%3D%3D (maybe BMS board would be better)
 
 Pyro channels and others
 
