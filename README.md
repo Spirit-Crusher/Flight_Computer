@@ -12,7 +12,9 @@ Altímetro (temp incluída): https://pt.mouser.com/ProductDetail/Measurement-Spe
 
 Buzzer: https://www.digikey.com/en/products/detail/ole-wolff-electronics-inc/OWMB-858540SA-40-15/16735155
 
-Antena: ???
+Antena(GPS): ???
+
+Telemetry transmiter/antenna: ???
 
 Data logging (flash memory IC): https://pt.mouser.com/ProductDetail/Winbond/W25Q128JVSIQ?qs=qSfuJ%252Bfl%2Fd6tLXvPR4fl9w%3D%3D
 
